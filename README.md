@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pedrosggomes
-- 👀 I’m interested in Data related topics. 
-- 🌱 I’m Data Analyst currently learning as much as I can regarding Data Analysis and Data Science. 
+- 👀 I’m interested in Data Engineering related topics. 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/pedrosggomes/)
 
 <!---
